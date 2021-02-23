@@ -1,3 +1,3 @@
-#Demo repository
+# Demo repository
 
 First readme ever
